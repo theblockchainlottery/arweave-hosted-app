@@ -1,5 +1,5 @@
 # arweave-hosted-app
-The Blockchain Lottery, forever hosted on the Arweave blockchain. Check it out at https://arweave.net/Q2hwG64ZCGaPt5Q44UvRW69LHocnFGLeZDivSTgzdXE
+The Blockchain Lottery, forever hosted on the Arweave blockchain. Check it out at https://arweave.net/OWfwRGRCZ5mWXucdQDhL3KlWm6pmHcmWP1BJBx4qfQk
 
 Learn more at https://www.arweave.org
 
